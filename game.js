@@ -1,5 +1,4 @@
-// Snake Game created by Bek Brace
-// JavaScript
+// The Fun part :)
 
 let dom_replay = document.querySelector("#replay");
 let dom_score = document.querySelector("#score");
